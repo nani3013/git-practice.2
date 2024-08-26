@@ -1,5 +1,5 @@
 #!/bin/bash
-#!/bin/bash
+
 PERSON1=bhanu 
 PERSON2=kishore
 
